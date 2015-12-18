@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Circuit Layout on TECHELEX Electronics Blog</title>
+    <link>http://blog.techelex.com/tags/circuit-layout/</link>
+    <description>Recent content in Circuit Layout on TECHELEX Electronics Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2012-2016</copyright>
+    <lastBuildDate>Thu, 17 Dec 2015 23:46:51 +0530</lastBuildDate>
+    <atom:link href="http://blog.techelex.com/tags/circuit-layout/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Top 3 Software for Design Circuit Layout</title>
+      <link>http://blog.techelex.com/software-design-circuit-layout/</link>
+      <pubDate>Thu, 17 Dec 2015 23:46:51 +0530</pubDate>
+      
+      <guid>http://blog.techelex.com/software-design-circuit-layout/</guid>
+      <description>
+
+&lt;p&gt;Designing a circuit layout is very important task in electronics engineer life if he/she work in core electronics field. This is a very easy task but if you don’t have a proper instruction or manual then its becomes a very difficult task.&lt;/p&gt;
+
+&lt;p&gt;As a student drawing a circuit layout using hand is always recommended but what if you want to save a space or simply designing your layout using a software.&lt;/p&gt;
+
+&lt;p&gt;Here top 3 software listed which is easiest in terms of functioning and learning.&lt;/p&gt;
+
+&lt;p&gt;Learning a software for designing a circuit layout is good thing but if you are a beginner or student it’s very difficult to choose a software for your need.&lt;/p&gt;
+
+&lt;p&gt;In market or web world many software are available for circuit layout designing and here we listed only three software but keep in mind every software is recommended in industry.&lt;/p&gt;
+
+&lt;h2 id=&#34;software-for-circuit-layout-design:925390c89c5d0bb52029f34de66dba66&#34;&gt;Software for Circuit Layout Design&lt;/h2&gt;
+
+&lt;h3 id=&#34;1-cadsoft-eagle:925390c89c5d0bb52029f34de66dba66&#34;&gt;1. CadSoft EAGLE&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://blog.techelex.com/images/15/12/Cadsoft-Eagle.png&#34; alt=&#34;Cadsoft Eagle&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;EAGLE provides quality PCB design software with the features that get the job done.&lt;/p&gt;
+
+&lt;p&gt;For over 20 years, EAGLE has been satisfying design engineers around the world, by offering the same core functionality as expensive commercial software, at the fraction of the cost.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Easy to learn&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Schematic editor, layout editor, library editor modules with identical user interfaces&lt;/li&gt;
+&lt;li&gt;Free service support through dedicated experts&lt;/li&gt;
+&lt;li&gt;Compatible with WindowsÂ®, LinuxÂ®, MacÂ®&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Download From Here: &lt;strong&gt;&lt;a href=&#34;http://goo.gl/Dtg0Bo&#34; title=&#34;Cadsoft Eagle download&#34;&gt;CadSoft EAGLE&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is our favorite schematic and layout editor. Its extremely simple and easy to learn.&lt;/p&gt;
+
+&lt;p&gt;Here a best tutorial for quick start with CadSoft Eagle.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/R4DYztYB6d4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&#34;2-orcad:925390c89c5d0bb52029f34de66dba66&#34;&gt;2. Orcad&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://blog.techelex.com/images/15/12/Orcad.png&#34; alt=&#34;Orcad&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;OrCAD PCB design solutions provide a complete set of tools to help you achieve the results you need. From the initial schematic to the final artwork, the platform delivers a complete, integrated workflow.&lt;/p&gt;
+
+&lt;p&gt;OrCAD tools have a fully open architecture platform. This means you can add unique functionality that is integrated into the program in the form of apps, or you can also build capability and flows yourself.&lt;/p&gt;
+
+&lt;p&gt;The OrCAD environment offers proven analysis tools for signal integrity, analog and mixed signal, EMI analysis, and much more. All of these tools are seamlessly integrated so there are no translation errors.&lt;/p&gt;
+
+&lt;p&gt;Download From Here: &lt;strong&gt;&lt;a href=&#34;http://goo.gl/lgzMaA&#34; title=&#34;OrCAD !6.6 Lite Download&#34;&gt;OrCAD 16.6 Lite Demo Software&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;3-express-pcb:925390c89c5d0bb52029f34de66dba66&#34;&gt;3. Express PCB&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://blog.techelex.com/images/15/12/expresspcb.png&#34; alt=&#34;Express PCB&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Express PCB software is a snap to learn and use. For the first time, designing circuit boards is simple for the beginner and efficient for the professional.&lt;/p&gt;
+
+&lt;p&gt;It includes ExpressSCH for drawing schematics and ExpressPCB for circuit board layout. The software is easily installed, and a snap to learn and use. Both run with Windows XP through Windows 7.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
