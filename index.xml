@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TECHELEX Electronics Blog</title>
-    <link>https://blog.techelex.com/</link>
+    <link>http://blog.techelex.com/</link>
     <description>Recent content on TECHELEX Electronics Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2012-2016</copyright>
     <lastBuildDate>Thu, 17 Dec 2015 23:46:51 +0530</lastBuildDate>
-    <atom:link href="https://blog.techelex.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.techelex.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Top 3 Software for Design Circuit Layout</title>
-      <link>https://blog.techelex.com/software-design-circuit-layout/</link>
+      <link>http://blog.techelex.com/software-design-circuit-layout/</link>
       <pubDate>Thu, 17 Dec 2015 23:46:51 +0530</pubDate>
       
-      <guid>https://blog.techelex.com/software-design-circuit-layout/</guid>
+      <guid>http://blog.techelex.com/software-design-circuit-layout/</guid>
       <description>
 
 &lt;p&gt;Designing a circuit layout is very important task in electronics engineer life if he/she work in core electronics field. This is a very easy task but if you don’t have a proper instruction or manual then its becomes a very difficult task.&lt;/p&gt;
@@ -32,7 +32,7 @@
 
 &lt;h3 id=&#34;1-cadsoft-eagle:925390c89c5d0bb52029f34de66dba66&#34;&gt;1. CadSoft EAGLE&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://blog.techelex.com/images/15/12/Cadsoft-Eagle.png&#34; alt=&#34;Cadsoft Eagle&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.techelex.com/images/15/12/Cadsoft-Eagle.png&#34; alt=&#34;Cadsoft Eagle&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;EAGLE provides quality PCB design software with the features that get the job done.&lt;/p&gt;
 
@@ -56,7 +56,7 @@
 
 &lt;h3 id=&#34;2-orcad:925390c89c5d0bb52029f34de66dba66&#34;&gt;2. Orcad&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://blog.techelex.com/images/15/12/Orcad.png&#34; alt=&#34;Orcad&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.techelex.com/images/15/12/Orcad.png&#34; alt=&#34;Orcad&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;OrCAD PCB design solutions provide a complete set of tools to help you achieve the results you need. From the initial schematic to the final artwork, the platform delivers a complete, integrated workflow.&lt;/p&gt;
 
@@ -68,7 +68,7 @@
 
 &lt;h3 id=&#34;3-express-pcb:925390c89c5d0bb52029f34de66dba66&#34;&gt;3. Express PCB&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://blog.techelex.com/images/15/12/expresspcb.png&#34; alt=&#34;Express PCB&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.techelex.com/images/15/12/expresspcb.png&#34; alt=&#34;Express PCB&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Express PCB software is a snap to learn and use. For the first time, designing circuit boards is simple for the beginner and efficient for the professional.&lt;/p&gt;
 
@@ -78,10 +78,10 @@
     
     <item>
       <title>3 Software for Design Circuit Diagram</title>
-      <link>https://blog.techelex.com/software-design-circuit-diagram/</link>
+      <link>http://blog.techelex.com/software-design-circuit-diagram/</link>
       <pubDate>Wed, 16 Dec 2015 22:56:09 +0530</pubDate>
       
-      <guid>https://blog.techelex.com/software-design-circuit-diagram/</guid>
+      <guid>http://blog.techelex.com/software-design-circuit-diagram/</guid>
       <description>
 
 &lt;p&gt;As an electronics engineer designing a circuit diagram is not a big deal. When I was a new student in electronics field teachers teach us to design a circuit diagram using hand, It’s a fun game and i really enjoyed this. But when complexity was increased drawing a circuit diagram using hand is really a bad idea because i want a cleaner tracks and want a better circuit diagram using small piece of PCB (Printed Circuit Board).&lt;/p&gt;
@@ -102,7 +102,7 @@
 
 &lt;p&gt;You can draw whatever you want, and FidoCadJ comes with a large library of symbols related to the electrical and electronic engineering.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://blog.techelex.com/images/15/12/FidoCadj.jpg&#34; alt=&#34;FidoCadj&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.techelex.com/images/15/12/FidoCadj.jpg&#34; alt=&#34;FidoCadj&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;FidoCadJ is a free user-friendly vector graphic editor for MacOSX, Linux, Windows and Android:&lt;/p&gt;
 
@@ -126,7 +126,7 @@
 
 &lt;p&gt;You can also perform fast, accurate simulations of digital, analog and mixed analog/digital circuits using CircuitMaker’s Berkeley SPICE3f5/XSpice-based simulator.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://blog.techelex.com/images/15/12/Circuit-Maker-6-Pro.png&#34; alt=&#34;Circuit Maker 6 Pro&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.techelex.com/images/15/12/Circuit-Maker-6-Pro.png&#34; alt=&#34;Circuit Maker 6 Pro&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; As you seen in picture you found a simulation of Collector Coupled Astable Multivibrator. This software containing simulation facility and as a beginner it was my personnel favorite.&lt;/p&gt;
 
@@ -134,7 +134,7 @@
 
 &lt;h3 id=&#34;3-tinycad:826e8dfde029d74af9d2b7fae787594d&#34;&gt;3. TinyCAD&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://blog.techelex.com/images/15/12/TinyCAD.jpg&#34; alt=&#34;TinyCAD&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.techelex.com/images/15/12/TinyCAD.jpg&#34; alt=&#34;TinyCAD&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;TinyCAD is a program for drawing electrical circuit diagrams commonly known as schematic drawings.&lt;/p&gt;
 

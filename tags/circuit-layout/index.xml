@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Circuit Layout on TECHELEX Electronics Blog</title>
-    <link>https://blog.techelex.com/tags/circuit-layout/</link>
+    <link>http://blog.techelex.com/tags/circuit-layout/</link>
     <description>Recent content in Circuit Layout on TECHELEX Electronics Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2012-2016</copyright>
     <lastBuildDate>Thu, 17 Dec 2015 23:46:51 +0530</lastBuildDate>
-    <atom:link href="https://blog.techelex.com/tags/circuit-layout/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.techelex.com/tags/circuit-layout/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Top 3 Software for Design Circuit Layout</title>
-      <link>https://blog.techelex.com/software-design-circuit-layout/</link>
+      <link>http://blog.techelex.com/software-design-circuit-layout/</link>
       <pubDate>Thu, 17 Dec 2015 23:46:51 +0530</pubDate>
       
-      <guid>https://blog.techelex.com/software-design-circuit-layout/</guid>
+      <guid>http://blog.techelex.com/software-design-circuit-layout/</guid>
       <description>
 
 &lt;p&gt;Designing a circuit layout is very important task in electronics engineer life if he/she work in core electronics field. This is a very easy task but if you don’t have a proper instruction or manual then its becomes a very difficult task.&lt;/p&gt;
@@ -32,7 +32,7 @@
 
 &lt;h3 id=&#34;1-cadsoft-eagle:925390c89c5d0bb52029f34de66dba66&#34;&gt;1. CadSoft EAGLE&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://blog.techelex.com/images/15/12/Cadsoft-Eagle.png&#34; alt=&#34;Cadsoft Eagle&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.techelex.com/images/15/12/Cadsoft-Eagle.png&#34; alt=&#34;Cadsoft Eagle&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;EAGLE provides quality PCB design software with the features that get the job done.&lt;/p&gt;
 
@@ -56,7 +56,7 @@
 
 &lt;h3 id=&#34;2-orcad:925390c89c5d0bb52029f34de66dba66&#34;&gt;2. Orcad&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://blog.techelex.com/images/15/12/Orcad.png&#34; alt=&#34;Orcad&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.techelex.com/images/15/12/Orcad.png&#34; alt=&#34;Orcad&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;OrCAD PCB design solutions provide a complete set of tools to help you achieve the results you need. From the initial schematic to the final artwork, the platform delivers a complete, integrated workflow.&lt;/p&gt;
 
@@ -68,7 +68,7 @@
 
 &lt;h3 id=&#34;3-express-pcb:925390c89c5d0bb52029f34de66dba66&#34;&gt;3. Express PCB&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://blog.techelex.com/images/15/12/expresspcb.png&#34; alt=&#34;Express PCB&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.techelex.com/images/15/12/expresspcb.png&#34; alt=&#34;Express PCB&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Express PCB software is a snap to learn and use. For the first time, designing circuit boards is simple for the beginner and efficient for the professional.&lt;/p&gt;
 
